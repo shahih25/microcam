@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MicroCamController {
 
     @GetMapping("/hello")
-    public String getDemo(@RequestParam final String myName) {
+    public String getMicroCam(@RequestParam final String myName) {
         log.info("Received name {}", myName);
         return String.format("Hello %s", myName);
     }
