@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# .idea folder
+.idea
+
+# .mvn folder
+.mvn
+
+# target folder
+target/
+
 # Log file
 *.log
 
