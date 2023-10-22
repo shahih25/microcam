@@ -40,8 +40,9 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	
 <!--	Sample commit message-->
+<!--	This is another comment-->
 
 
 	<build>
